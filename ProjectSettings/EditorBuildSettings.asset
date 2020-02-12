@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 284e1fef062287542bfd099cb38a27f1
+  - enabled: 1
+    path: Assets/Scenes/Register.unity
+    guid: 35fc9ff83fca8e645bec293fabb5f5dd
+  - enabled: 1
+    path: Assets/Scenes/Load.unity
+    guid: 6f68982e02e419a4d9046aeb9da30092
+  - enabled: 1
+    path: Assets/Scenes/Linving Room.unity
+    guid: 1632e6a6e645b5e4fb076c8960fad6e5
+  - enabled: 1
+    path: Assets/Scenes/Guide_1.unity
+    guid: 11afe1402ebb02843bca6360ddc0f58f
+  - enabled: 1
+    path: Assets/Scenes/Guide_2.unity
+    guid: 320efac0651cb704fa9c4ab9505c5f91
+  - enabled: 1
+    path: Assets/Scenes/Guide_3.unity
+    guid: 4434a01c4bf5c3d45b940fcbe383dcba
+  - enabled: 1
+    path: Assets/Scenes/Guide_4.unity
+    guid: d18162c75d9d00d4e9985e88ccecf12b
+  - enabled: 1
+    path: Assets/Scenes/sickroom.unity
+    guid: 83d10ce08098c8147804f717ebb1c53e
+  - enabled: 1
+    path: Assets/Scenes/cg.unity
+    guid: c2811bf57e177bd419bea17be146412f
+  m_configObjects: {}
