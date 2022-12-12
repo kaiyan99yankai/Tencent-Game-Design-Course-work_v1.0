@@ -1,4 +1,4 @@
-# Tencent Game Design Course work
+# Tencent Game Design Course Work
 ## Introduction
 An mobile phone game on Android. The main gameplay is Pinball and Puzzle Game.
 ## Play
